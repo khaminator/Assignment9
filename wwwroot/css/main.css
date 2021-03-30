@@ -1,0 +1,16 @@
+﻿body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+label {
+    font-size: 15px;
+    color: turquoise;
+    background-color: beige;
+    width: 100px;
+    display: inline-block;
+}
+
+input {
+    width: 100px;
+}
